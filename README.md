@@ -6,7 +6,7 @@ Nesta fase, o usuário determina o valor inicial do investimento, podendo escolh
 
 •Sugerido: calcula automaticamente 25% do salário para investimento.
 
-•	Personalizado: permite que o usuário defina livremente o valor do aporte.
+•Personalizado: permite que o usuário defina livremente o valor do aporte.
 
 2ª Etapa: configuração da carteira
 Aqui, os segmentos dos fundos imobiliários são apresentados e distribuído seu investimento com base no perfil escolhido: conservador, moderado ou arrojado. Para cada perfil, há uma sugestão de percentual de distribuição, garantindo um investimento equilibrado.
