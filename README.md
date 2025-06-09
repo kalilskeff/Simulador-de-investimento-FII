@@ -1,4 +1,4 @@
-Simulador de Investimentos
+Simulador de Investimentos em Excel
 
 Este simulador foi desenvolvido para facilitar a gestão e projeção de investimentos em fundos imobiliários, permitindo que o usuário planeje seu aporte inicial, configure sua carteira e visualize projeções de crescimento ao longo do tempo.
 
